@@ -1,6 +1,5 @@
 # GitCollab
-GitMiniProject1
-*IS 601 Websystem Development*
 ## Project Assignment ##
+*IS 601 Websystem Development*
 ## Due - February 08 2021 ##
 ### Garima Negi ###
