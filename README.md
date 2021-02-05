@@ -15,4 +15,4 @@ https://github.com/gn32/GitCollab/blob/main/Productivity.docx
 https://guide.quickscrum.com/git-guide/
 https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html
 ### 5. Webex Team-meeting
-https://github.com/gn32/GitCollab/blob/main/GITCollab%20webex.png
+https://github.com/gn32/GitCollab/blob/main/GITCollab%20Webex%20meeting.png
