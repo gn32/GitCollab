@@ -1,5 +1,0 @@
-1. How to use GitHub | What is GitHub | Git and GitHub Tutorial | DevOps Training | Edureka
-https://www.youtube.com/watch?v=PQsJR8ci3J0
-
-2. Activity: To Use the GitHub Desktop 
-clienthttps://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html
