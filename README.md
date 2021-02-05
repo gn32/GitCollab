@@ -1,9 +1,9 @@
 # IS 601 Websystem Development #
-## Project Assignment ##
+## Project Assignment :pen:
 # GitCollab
 ### Due date: *February 08 2021* 
-### Team Member1: *Garima Negi* 
-### Team Member2: *Manjushree Madhava Rao Ramachandrahosur*
+### Team Member1 :handshake: *Garima Negi* 
+### Team Member2 :handshake: *Manjushree Madhava Rao Ramachandrahosur*
 ### Index ###
 ### 1. The README file
 https://github.com/gn32/GitCollab/blob/main/README.md
