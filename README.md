@@ -11,5 +11,4 @@ https://github.com/gn32/GitCollab/blob/main/GIT%20Definitons.docx
 https://github.com/gn32/GitCollab/blob/main/Productivity.docx
 ### 3. Videos/Tutorials ###
 https://guide.quickscrum.com/git-guide/
-https://www.youtube.com/watch?v=PQsJR8ci3J0
 https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html
