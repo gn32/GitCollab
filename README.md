@@ -6,4 +6,4 @@
 ### Team Member2: Manjushree Madhava Rao Ramachandrahosur
 ## Index ##
 ## GIT Definitions ##
-https://github.com/ManjushreeRao/GitCollab/blob/intro2/GIT%20Definitions.md
+https://github.com/gn32/GitCollab/blob/main/GIT%20Definitons.docx
