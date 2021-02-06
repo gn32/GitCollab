@@ -3,8 +3,8 @@
 ## Project Assignment :pen:
 # GitCollab
 ### Due date: February 08 2021
-### Team Member1 :handshake: Garima Negi 
-### Team Member2 :handshake: Manjushree Madhava Rao Ramachandrahosur
+### Team Member1 :handshake: Garima Negi (*Garry*) 
+### Team Member2 :handshake: Manjushree Madhava Rao Ramachandrahosur (*Mandy*)
 ### Index ###
 #### 1. [The README file](https://github.com/gn32/GitCollab/blob/main/README.md)
 #### 2. [GIT Definitions](https://github.com/gn32/GitCollab/blob/main/GIT%20Flow-%20GIT%20Definitons.docx)
