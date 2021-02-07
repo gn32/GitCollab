@@ -1,6 +1,6 @@
 # IS 601 Websystem Development #
 # Professor :teacher: Keith Williams 
-## Project Assignment :pen:
+## Project Assignment 1 : Git Collaboration :pen:
 # GitCollab
 ### Due date: February 08 2021
 ### Team Member1 :handshake: Garima Negi (*Garry*) 
