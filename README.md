@@ -1,6 +1,6 @@
 # IS 601 Websystem Development #
-# Professor :teacher: Keith Williams 
-# Project Assignment 1 : Git Collaboration :pen:
+# Project Assignment 1: Git Collaboration :pen:
+## Professor: Keith Williams 
 ## Due date: February 08 2021
 # GitCollab 
 ## Team Member1 :handshake: Garima Negi (*Garry*) 
@@ -12,7 +12,9 @@
 ### 3. [Productivity](https://github.com/gn32/GitCollab/blob/main/Productivity.docx)
 ### 4. [Webex Team-meeting](https://github.com/gn32/GitCollab/blob/main/GITCollab%20Webex%20meeting.png)
 ### 5. [Change Log](https://github.com/gn32/GitCollab/blob/main/Change_Log.docx)
-## Videos ###
-[Tutorial1](https://guide.quickscrum.com/git-guide/)
+## Videos 
+The following videos have been used as a reference to understand the working of Github
 
-[Tutorial2](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html)
+[Tutorial1](https://guide.quickscrum.com/git-guide/)- gives an overview of Git
+
+[Tutorial2](https://idratherbewriting.com/learnapidoc/pubapis_github_desktop_client.html)- helps to understand the use of Github desktop to manage the Git workflow
